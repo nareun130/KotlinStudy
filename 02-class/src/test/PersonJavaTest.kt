@@ -7,6 +7,6 @@ fun main(){
 	
 	println(javaPerson.name)
 	println(javaPerson.age)
-	println(javaPerson.isMarried())
+	println(javaPerson.isMarried)
 	
 }
