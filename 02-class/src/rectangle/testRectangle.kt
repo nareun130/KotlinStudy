@@ -1,4 +1,4 @@
-package modifier
+package rectangle
 
 
 fun main(){
