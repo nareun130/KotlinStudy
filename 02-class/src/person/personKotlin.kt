@@ -7,4 +7,5 @@ class PersonKotlin( //~> kotlin의 기본 가시성은 public
 	//* var : 읽고 쓰기 가능 
 	var isMarried: Boolean
 
+	
 )
